@@ -1,9 +1,9 @@
-INSERT INTO category(name) VALUES
+insert into category(name) values
 ('Mobile Accessories'),
 ('Computer Accessories'),
 ('Smart Home');
 
-INSERT INTO post (title, lead, body, author, date, category_id) VALUES
+insert into post (title, lead, body, author, date, category_id) values
   ('Earbuds',
    'You have got to try these in your ears. So tiny and can even block the sounds of screaming toddlers if you so desire.',
    'You have got to try these in your ears. So tiny and can even block the sounds of screaming toddlers if you so desire.',
